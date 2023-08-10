@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swiftdst9
+- 👋 Hi, I’m Stephanie
 - 👀 I’m interested in learning all things in Information Technology.
 - 🌱 I’m currently learning AWS and the use of Terraform and Ansible.
 - 💞️ I’m looking to collaborate on projects to show my expertise and help develop infrastructures.
